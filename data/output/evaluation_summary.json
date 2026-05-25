@@ -1,0 +1,46 @@
+{
+  "ru": {
+    "bertscore": {
+      "base_mean": 0.8123229662577311,
+      "base_std": 0.04067526871283793,
+      "rag_mean": 0.8209917942682902,
+      "rag_std": 0.04576879670180654,
+      "improvement": 0.008668828010559015,
+      "improvement_pct": 1.0671652003753145,
+      "p_value": 0.21079117266936187,
+      "significant": false
+    },
+    "win_rate": {
+      "rag_wins": 11,
+      "base_wins": 3,
+      "ties": 1,
+      "rag_win_rate": 0.7333333333333333
+    },
+    "timing": {
+      "base_avg": 3.6527220726013185,
+      "rag_avg": 3.407216739654541
+    }
+  },
+  "en": {
+    "bertscore": {
+      "base_mean": 0.8107215166091919,
+      "base_std": 0.01903240913262667,
+      "rag_mean": 0.8030024806658427,
+      "rag_std": 0.01648536836847074,
+      "improvement": -0.007719035943349217,
+      "improvement_pct": -0.9521192894489534,
+      "p_value": 0.02768156029848746,
+      "significant": true
+    },
+    "win_rate": {
+      "rag_wins": 5,
+      "base_wins": 10,
+      "ties": 0,
+      "rag_win_rate": 0.3333333333333333
+    },
+    "timing": {
+      "base_avg": 13.943260033925375,
+      "rag_avg": 2.7947903633117677
+    }
+  }
+}

@@ -1,0 +1,192 @@
+[
+  {
+    "id": 1,
+    "filename": "ru_04_klassifikatsiya-tekstov-s-pomoschyu-svertochnyh-neyronnyh-se.pdf",
+    "source": "ru",
+    "evaluation": {
+      "base": {
+        "clarity": 8,
+        "relevance": 7,
+        "completeness": 6
+      },
+      "rag": {
+        "clarity": 6,
+        "relevance": 5,
+        "completeness": 4
+      },
+      "winner": "base",
+      "comment": "Вариант A не идеален по полноте (не упоминает CNN и сравнение с другими методами), он значительно ближе к сути статьи и эталонной формулировке, чем вариант B"
+    }
+  },
+  {
+    "id": 2,
+    "filename": "ru_01_primenenie-neyronnyh-setey-v-obrabotke-estestvennogo-yazyka.pdf",
+    "source": "ru",
+    "evaluation": {
+      "base": {
+        "clarity": 5,
+        "relevance": 4,
+        "completeness": 3
+      },
+      "rag": {
+        "clarity": 4,
+        "relevance": 3,
+        "completeness": 2
+      },
+      "winner": "base",
+      "comment": "Оба варианта не отражают эталонную проблему (подделка текстов, манипуляция общественным мнением)"
+    }
+  },
+  {
+    "id": 3,
+    "filename": "ru_09_metody-raspoznavaniya-imenovannyh-suschnostey-v-russkom-yazy.pdf",
+    "source": "ru",
+    "evaluation": {
+      "base": {
+        "clarity": 7,
+        "relevance": 8,
+        "completeness": 6
+      },
+      "rag": {
+        "clarity": 9,
+        "relevance": 10,
+        "completeness": 8
+      },
+      "winner": "rag",
+      "comment": "Вариант B почти дословно соответствует сформулированной в статье цели, предельно ясен и максимально релевантен. Вариант A тоже хорош и акцентирует важный аспект (контекст), но он более узкий и не охватывает всей задачи разработки метода в целом."
+    }
+  },
+  {
+    "id": 4,
+    "filename": "ru_08_analiz-tonalnosti-teksta-metodami-mashinnogo-obucheniya.pdf",
+    "source": "ru",
+    "evaluation": {
+      "base": {
+        "clarity": 8,
+        "relevance": 7,
+        "completeness": 6
+      },
+      "rag": {
+        "clarity": 6,
+        "relevance": 8,
+        "completeness": 7
+      },
+      "winner": "rag",
+      "comment": "Оба варианта имеют сильные и слабые стороны"
+    }
+  },
+  {
+    "id": 5,
+    "filename": "ru_17_sravnitelnyy-analiz-modeley-transformera-dlya-klassifikatsii.pdf",
+    "source": "ru",
+    "evaluation": {
+      "base": {
+        "clarity": 8,
+        "relevance": 9,
+        "completeness": 7
+      },
+      "rag": {
+        "clarity": 7,
+        "relevance": 8,
+        "completeness": 5
+      },
+      "winner": "base",
+      "comment": "Вариант A четче, полнее и лучше соответствует общей цели статьи (исследование применения трансформеров для классификации). Вариант B сфокусирован на «улучшении», что является следствием, но не основной проблемой/целью."
+    }
+  },
+  {
+    "id": 6,
+    "filename": "2603.27949v1.pdf",
+    "source": "en",
+    "evaluation": {
+      "base": {
+        "clarity": 9,
+        "relevance": 10,
+        "completeness": 9
+      },
+      "rag": {
+        "clarity": 7,
+        "relevance": 7,
+        "completeness": 5
+      },
+      "winner": "base",
+      "comment": "Вариант A почти безупречен. Он точно улавливает суть проблемы, сформулированной в статье: надежная детекция LLM-текстов на китайском языке в условиях out-of-domain и adversarial воздействий. Вариант B слишком общий и не передает специфику решаемой задачи, которая делает работу уникальной (победа в соревновании, устойчивость к атакам, работа с китайским языком)."
+    }
+  },
+  {
+    "id": 7,
+    "filename": "2603.29336v1.pdf",
+    "source": "en",
+    "evaluation": {
+      "base": {
+        "clarity": 8,
+        "relevance": 9,
+        "completeness": 7
+      },
+      "rag": {
+        "clarity": 6,
+        "relevance": 4,
+        "completeness": 3
+      },
+      "winner": "base",
+      "comment": "Вариант A точно отражает основную проблему, которую решает CADEL: нехватка ресурсов для оценки японских EL-систем и необходимость их создания. Вариант B настолько общий, что не отличим от формулировки для любой статьи по entity linking на любом языке."
+    }
+  },
+  {
+    "id": 8,
+    "filename": "2603.29979v1",
+    "source": "en",
+    "evaluation": {
+      "base": {
+        "clarity": 9,
+        "relevance": 10,
+        "completeness": 9
+      },
+      "rag": {
+        "clarity": 6,
+        "relevance": 6,
+        "completeness": 4
+      },
+      "winner": "base",
+      "comment": "Вариант A точно отражает суть статьи: количественная оценка и оптимизация структурных особенностей (не семантики) для улучшения цитирования в генеративных движках. Это именно то, чего не хватало в существующем GEO, и что авторы представляют как свой главный вклад. Вариант B слишком описательный и не передает инженерной новизны работы"
+    }
+  },
+  {
+    "id": 9,
+    "filename": "2604.02194v1.pdf",
+    "source": "en",
+    "evaluation": {
+      "base": {
+        "clarity": 8,
+        "relevance": 8,
+        "completeness": 6
+      },
+      "rag": {
+        "clarity": 8,
+        "relevance": 8,
+        "completeness": 6
+      },
+      "winner": "base",
+      "comment": "Оба варианта одинаково хороши/средни. Вариант A чуть точнее, так как в статье проблема именно с retrieved contexts (из ретривера), а не с любыми контекстами."
+    }
+  },
+  {
+    "id": 10,
+    "filename": "2603.28858v1.pdf",
+    "source": "en",
+    "evaluation": {
+      "base": {
+        "clarity": 8,
+        "relevance": 9,
+        "completeness": 7
+      },
+      "rag": {
+        "clarity": 7,
+        "relevance": 7,
+        "completeness": 5
+      },
+      "winner": "base",
+      "comment": "Вариант A лучше отражает специфику проблемы, как она сформулирована в статье: не просто «как выбрать соотношение», а как оптимизировать этот чувствительный гиперпараметр, избегая потери вычислительных ресурсов, которые неизбежны при традиционном подходе (фиксация соотношения до обучения). Вариант B слишком общий и не передает ключевой инновации — post-hoc оптимизации через distribution vectors без переобучения."
+    }
+  }
+]
