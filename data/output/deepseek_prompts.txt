@@ -1,0 +1,1283 @@
+ПРОМПТЫ ДЛЯ DEEPSEEK
+============================================================
+
+Оцени каждый вариант по шкале 1-10:
+
+1. CLARITY (Ясность) — насколько четко и понятно сформулирована проблема
+   1-3: Расплывчато, непонятно, много лишних слов
+   4-6: В целом понятно, но есть неточности или размытость
+   7-8: Четкая формулировка, легко понять суть
+   9-10: Предельно ясная, лаконичная формулировка
+
+2. RELEVANCE (Соответствие) — насколько проблема соответствует содержанию статьи
+   1-3: Проблема не из этой статьи, выдумана или неверна
+   4-6: Частично соответствует, но упущены важные аспекты
+   7-8: Хорошо отражает суть статьи
+   9-10: Точно отражает главную проблему статьи
+
+3. COMPLETENESS (Полнота) — насколько полно охвачена проблема
+   1-3: Упущена суть, только часть проблемы
+   4-6: Основная идея есть, но не хватает деталей
+   7-8: Проблема описана достаточно полно
+   9-10: Исчерпывающая формулировка со всеми аспектами
+
+────────────────────────────────────────
+Статья 1 [RU]
+Файл: ru_04_klassifikatsiya-tekstov-s-pomoschyu-svertochnyh-neyronnyh-se.pdf
+
+Эталон: Это привело к множественным попыткам использования этой модели в других областях с целью улучшить результаты в сравнении с традиционными методами ....
+
+A (Base): Разработка эффективной модели классификации текста для определения типа сообщений, поступающих в чат-бота.
+
+B (RAG):  Как улучшить классификацию текста, особенно коротких текстов, для использования в чат-ботах.
+
+A: clarity= , relevance= , completeness= 
+B: clarity= , relevance= , completeness= 
+Лучше: 
+
+────────────────────────────────────────
+Статья 2 [RU]
+Файл: ru_01_primenenie-neyronnyh-setey-v-obrabotke-estestvennogo-yazyka.pdf
+
+Эталон: В-третьих, существует проблема подделки текстовых данных, когда созданный компью - тером текст может быть использован для распространения ложной информации или манипуляции общественным мнением....
+
+A (Base): Как улучшить обработку естественного языка с помощью нейронных сетей для автоматического перевода и других задач, связанных с текстовой информацией?
+
+B (RAG):  Как улучшить обработку естественного языка с помощью нейронных сетей?
+
+A: clarity= , relevance= , completeness= 
+B: clarity= , relevance= , completeness= 
+Лучше: 
+
+────────────────────────────────────────
+Статья 3 [RU]
+Файл: ru_09_metody-raspoznavaniya-imenovannyh-suschnostey-v-russkom-yazy.pdf
+
+Эталон: Важно й частью в решении задач обработки естественного языка является выбо р векторного представления слов . Цель данной работы - разработать эффективный метод для решения задачи распознавания именова...
+
+A (Base): Как эффективно учитывать контекст слова для распознавания именованных сущностей в русском языке.
+
+B (RAG):  Как разработать эффективный метод для решения задачи распознавания именованных сущностей в русском языке?
+
+A: clarity= , relevance= , completeness= 
+B: clarity= , relevance= , completeness= 
+Лучше: 
+
+────────────────────────────────────────
+Статья 4 [RU]
+Файл: ru_08_analiz-tonalnosti-teksta-metodami-mashinnogo-obucheniya.pdf
+
+Эталон: 18413/2518 -1092 -2021 -6-1-0-7 ВВЕДЕНИЕ Анализ тональности текста это подраздел обработки естественного языка ( NLP) целью кото рого является классификация текста по тональности....
+
+A (Base): Как классифицировать текст по тональности, чтобы выявить мнение, отношение и эмоции автора.
+
+B (RAG):  Как эффективно анализировать текстовые данные для определения тональности текста, используя методы машинного обучения.
+
+A: clarity= , relevance= , completeness= 
+B: clarity= , relevance= , completeness= 
+Лучше: 
+
+────────────────────────────────────────
+Статья 5 [RU]
+Файл: ru_17_sravnitelnyy-analiz-modeley-transformera-dlya-klassifikatsii.pdf
+
+Эталон: Татищева, 20а, кандидат технических наук, ORCID: 0000 -0003 -1378 -3553, e-mail: В данной статье представлен обзор подхода к классификации неструктурированной текстовой информа - ции с использованием ...
+
+A (Base): Как эффективно классифицировать неструктурированную текстовую информацию, используя модели трансформеров.
+
+B (RAG):  Как улучшить классификацию неструктурированной текстовой информации с использованием моделей трансформеров?
+
+A: clarity= , relevance= , completeness= 
+B: clarity= , relevance= , completeness= 
+Лучше: 
+
+────────────────────────────────────────
+Статья 6 [RU]
+Файл: ru_03_generatsiya-teksta-s-pomoschyu-neyronnyh-setey.pdf
+
+Эталон: Данный метод уменьшает количество ошибок при построении частотных для языка слов, поскольку в нём уделяется большое внимание грамматике и сохраняется смысл фраз. Цель исследования Реализация модели ге...
+
+A (Base): Разработка эффективных методов генерации текста с использованием нейронных сетей, обладающих способностью к самостоятельной реакции на нестандартные запросы.
+
+B (RAG):  Разработка эффективных методов генерации текста с использованием нейронных сетей, что актуально для обработки естественного языка и автоматического перефразирования текста.
+
+A: clarity= , relevance= , completeness= 
+B: clarity= , relevance= , completeness= 
+Лучше: 
+
+────────────────────────────────────────
+Статья 7 [RU]
+Файл: ru_12_intellektualnyy-analiz-teksta.pdf
+
+Эталон: В частности, он включает в себя процессы компиляции, организации и анализа больших коллекций документов с целью извлечения 477 Научно -образовательный журнал для студентов и преподавателей «StudNet» №...
+
+A (Base): Как извлечь полезную информацию из больших объемов текстовых данных, используя автоматизированные методы анализа текста.
+
+B (RAG):  Как эффективно извлекать информацию из больших коллекций текстовых данных, чтобы обнаружить новые связи и закономерности?
+
+A: clarity= , relevance= , completeness= 
+B: clarity= , relevance= , completeness= 
+Лучше: 
+
+────────────────────────────────────────
+Статья 8 [RU]
+Файл: ru_02_metody-glubokogo-obucheniya-dlya-obrabotki-tekstov-na-estest.pdf
+
+Эталон: Важной задачей при анализе рентгеногр афических изображений медицинских биологических объектов и их фрагментов является решение задачи улучшения качества изображения. С целью улучш е- ния качества рен...
+
+A (Base): Разработка эффективных алгоритмов глубокого обучения для обработки естественного языка, включая задачи моделирования предложений, маркировки семантической роли, распознавания именованных сущностей, категоризации текста и машинного перевода.
+
+B (RAG):  Как улучшить обработку естественного языка, используя глубокое обучение, чтобы решить задачи, которые ранее были нерешаемыми.
+
+A: clarity= , relevance= , completeness= 
+B: clarity= , relevance= , completeness= 
+Лучше: 
+
+────────────────────────────────────────
+Статья 9 [RU]
+Файл: ru_11_klassifikatsiya-nauchnyh-tekstov-po-spetsialnostyam-metodami.pdf
+
+Эталон: Выявление смысла является основной задачей анализа содержимого текстов. В данной статье в качестве обучающей и тестовой выборки текстов были отобраны документы: авто - рефераты и диссертации, которые ...
+
+A (Base): Как классифицировать научные текстовые материалы по специальностям с использованием методов машинного обучения.
+
+B (RAG):  Разработка эффективных методов классификации научных текстов по предметным областям с использованием машинного обучения.
+
+A: clarity= , relevance= , completeness= 
+B: clarity= , relevance= , completeness= 
+Лучше: 
+
+────────────────────────────────────────
+Статья 10 [RU]
+Файл: ru_18_intellektualnaya-obrabotka-tekstovoy-informatsii-obzor-avtom.pdf
+
+Эталон: Технологическая основа автоматизированной суммаризации Основу составляют различные алгоритмы, суть работы которых описывается в данной статье нема- тематическим языком с целью получения общего предста...
+
+A (Base): Как улучшить автоматизированную обработку текстовой информации, чтобы создавать резюме разного качества и объема, используя экстрактивные и абстрактивные методы.
+
+B (RAG):  Разработка эффективных методов автоматизированной суммаризации текстовой информации, включая экстрактивные и абстрактивные подходы.
+
+A: clarity= , relevance= , completeness= 
+B: clarity= , relevance= , completeness= 
+Лучше: 
+
+────────────────────────────────────────
+Статья 11 [RU]
+Файл: ru_13_sravnitelnyy-analiz-algoritmov-klassifikatsii-tekstov-ot-kla.pdf
+
+Эталон: Классификация текстовых документов ключевая задача обработки естественного языка (NLP) и машинного обучения, имеющая множество приложений: фильтрация спама, тематическая сортировка новостей, анализ то...
+
+A (Base): Как улучшить автоматическую классификацию текстовых документов, используя современные методы машинного обучения, такие как трансформеры, по сравнению с классическими подходами.
+
+B (RAG):  Разработка эффективных алгоритмов для автоматической классификации текстовых документов, особенно с учетом эволюции от классических подходов к современным трансформерам.
+
+A: clarity= , relevance= , completeness= 
+B: clarity= , relevance= , completeness= 
+Лучше: 
+
+────────────────────────────────────────
+Статья 12 [RU]
+Файл: ru_07_effektivnost-neyrosetevyh-algoritmov-v-avtomaticheskom-refer.pdf
+
+Эталон: Статья посвящена анализу роли и эффективности нейросетевых алгоритмов в задачах автоматического рефе - рирования и суммаризации текстов, которые являются ключевыми в области обработки естественного яз...
+
+A (Base): Как улучшить автоматическое реферирование и суммаризацию текста, обеспечивая извлечение и генерацию важнейшей информации из текстов для быстрого доступа к основному содержанию.
+
+B (RAG):  Как улучшить автоматическое реферирование и суммаризацию текста, обеспечив понимание контекста, иронии и сохранение связности текста?
+
+A: clarity= , relevance= , completeness= 
+B: clarity= , relevance= , completeness= 
+Лучше: 
+
+────────────────────────────────────────
+Статья 13 [RU]
+Файл: ru_19_bazovaya-arhitektura-metody-i-algoritmy-sistemy-izvlecheniya.pdf
+
+Эталон: Сердюк Базовая архитектура, методы и алгоритмы системы извлечения темпоральной информации из текстов на естественном языке Аннотация. В данной статье представляется базовая архитектура системы извлече...
+
+A (Base): Как определить временные отношения между событиями и временными ссылками в текстах на естественном языке.
+
+B (RAG):  Разработка методов и алгоритмов для извлечения темпоральной информации из текстов на естественном языке.
+
+A: clarity= , relevance= , completeness= 
+B: clarity= , relevance= , completeness= 
+Лучше: 
+
+────────────────────────────────────────
+Статья 14 [RU]
+Файл: ru_16_kontsept-predobuchennyh-yazykovyh-modeley-v-kontekste-inzhen.pdf
+
+Эталон: Автор обосновывает актуальность вопроса о содержа нии в предобученных языковых моделях имплицитных, интернализированных знаний, извлеченных из текстовых корпусов, использовавшихся для предобучения ( p...
+
+A (Base): Как извлечь и формализовать знания, содержащиеся в предобученных языковых моделях, и использовать их для построения баз знаний.
+
+B (RAG):  Как понять, какие знания хранятся в предобученных языковых моделях и как эти знания можно извлечь?
+
+A: clarity= , relevance= , completeness= 
+B: clarity= , relevance= , completeness= 
+Лучше: 
+
+────────────────────────────────────────
+Статья 15 [RU]
+Файл: ru_14_issledovanie-primenimosti-modeley-glubokogo-obucheniya-dlya-.pdf
+
+Эталон: Подвесовский ИССЛЕДОВАНИЕ ПРИМЕНИМОСТИ МОДЕЛЕЙ ГЛУБОКОГО ОБУЧЕНИЯ ДЛЯ ЗАДАЧИ АСПЕКТНОГО АНАЛИЗА ТОНАЛЬНОСТИ ТЕКСТОВЫХ СООБЩЕНИЙ Рассмотрена задача аспектного анализа тональности текстовых сообщений на...
+
+A (Base): Определение тональности текстовых сообщений, как задача классификации, осложняется неоднозначностью языка и структурой текста.
+
+B (RAG):  Определение тональности текстовых сообщений, а также выявление аспектов, обсуждаемых в текстах.
+
+A: clarity= , relevance= , completeness= 
+B: clarity= , relevance= , completeness= 
+Лучше: 
+
+────────────────────────────────────────
+Статья 16 [EN]
+Файл: 2603.27949v1.pdf
+
+Эталон: The experimental results demonstrate that EnsemJudge achieves state-of-the-art per- formance, showing strong generalization and robustness across various text types and attack settings. This work high...
+
+A (Base): How can reliable detection of Chinese language large language model-generated text be achieved, especially considering out-of-domain inputs and adversarial samples?
+
+B (RAG):  How can we reliably detect text generated by large language models, particularly in Chinese?
+
+A: clarity= , relevance= , completeness= 
+B: clarity= , relevance= , completeness= 
+Лучше: 
+
+────────────────────────────────────────
+Статья 17 [EN]
+Файл: 2603.29336v1.pdf
+
+Эталон: In constructing this cor- pus, we developed a design policy based on key issues in defining the EL task, and clarified how to handle cases in which it is difficult to determine whether a mention shoul...
+
+A (Base): How can we effectively evaluate Japanese entity linking systems, given the limited availability of resources for this task?
+
+B (RAG):  How can linguistic expressions in text be reliably associated with real-world entities and concepts?
+
+A: clarity= , relevance= , completeness= 
+B: clarity= , relevance= , completeness= 
+Лучше: 
+
+────────────────────────────────────────
+Статья 18 [EN]
+Файл: 2603.29979v1.pdf
+
+Эталон: Structural Feature Engineering Objective Given contentcwith structural featuresSF(c), our optimization objective is to find the optimal structural configurationSF∗that maximizes citation probability a...
+
+A (Base): How can content structure, independent of semantic content, be quantified and optimized to improve citation performance in generative engines?
+
+B (RAG):  How does content structure influence citation behavior?
+
+A: clarity= , relevance= , completeness= 
+B: clarity= , relevance= , completeness= 
+Лучше: 
+
+────────────────────────────────────────
+Статья 19 [EN]
+Файл: 2604.02194v1.pdf
+
+Эталон: This effectively aligns the LLM s generative capabilities with our context-filtering objective. For this, we construct a dataset as follows: for a pair (qi,{di,j}k j=1)∈ D Q, we em- ploy an external L...
+
+A (Base): How can we improve the robustness of Retrieval-Augmented Language Models when presented with irrelevant or noisy retrieved contexts?
+
+B (RAG):  How can we improve the robustness of Retrieval-Augmented Language Models (RALMs) when presented with irrelevant or noisy contexts?
+
+A: clarity= , relevance= , completeness= 
+B: clarity= , relevance= , completeness= 
+Лучше: 
+
+────────────────────────────────────────
+Статья 20 [EN]
+Файл: 2603.28858v1.pdf
+
+Эталон: In this work, we proposeOPTIMER, which decouples ratio selection from training: we train one CPT model per dataset, extract each model s distribution vector, which represents the parameter shift induc...
+
+A (Base): How can the sensitive hyperparameter of data mixture ratio be optimized in continual pre-training, avoiding wasted computational resources?
+
+B (RAG):  How can the data mixture ratio be effectively selected to optimize model performance in continual pre-training?
+
+A: clarity= , relevance= , completeness= 
+B: clarity= , relevance= , completeness= 
+Лучше: 
+
+────────────────────────────────────────
+Статья 21 [EN]
+Файл: 2603.29520v1.pdf
+
+Эталон: , VPNs) has significantly challenged traditional traffic analysis techniques, making en- crypted traffic classification a critical yet challenging problem. Early studies mainly relied on port-based an...
+
+A (Base): How can deep learning models effectively classify encrypted traffic, despite the occlusion of payload semantics and the challenges posed by static modeling approaches?
+
+B (RAG):  How can encrypted traffic be classified effectively, despite the occlusion of payload semantics?
+
+A: clarity= , relevance= , completeness= 
+B: clarity= , relevance= , completeness= 
+Лучше: 
+
+────────────────────────────────────────
+Статья 22 [EN]
+Файл: 2603.29407v1.pdf
+
+Эталон: Finally, although details on TAU are scarce, its design similarly focuses on optimizing local feature extraction within a classical paradigm, leaving non-local correlation modeling an open challenge. ...
+
+A (Base): How can we accurately forecast the evolution of three-dimensional cloud fields, considering their complex spatiotemporal dynamics and nonlocal dependencies?
+
+B (RAG):  How can we accurately forecast the evolution of three-dimensional cloud fields, considering cross-layer interactions, nonlocal dependencies, and multiscale spatiotemporal dynamics?
+
+A: clarity= , relevance= , completeness= 
+B: clarity= , relevance= , completeness= 
+Лучше: 
+
+────────────────────────────────────────
+Статья 23 [EN]
+Файл: 2603.29902v1.pdf
+
+Эталон: Annotators remove redundant or semantically mismatched calls, fix issues such as malformed syntax and inappropriate tool choices, and relocate misplaced tags to paragraph boundaries to avoid disruptin...
+
+A (Base): How can Multimodal Large Language Models effectively plan and execute tool use to generate coherent interleaved text and image sequences for visual-critical queries?
+
+B (RAG):  How can Multimodal Large Language Models effectively unify factuality with creativity in interleaved text-and-image generation?
+
+A: clarity= , relevance= , completeness= 
+B: clarity= , relevance= , completeness= 
+Лучше: 
+
+────────────────────────────────────────
+Статья 24 [EN]
+Файл: 2603.28537v2.pdf
+
+Эталон: To train some of these methods, which require machine learning, or to compute parameters or select hyperparameters for those that do not, a large amount of domain-specific data is needed. In this work...
+
+A (Base): How can we create training datasets for automatic grading of student answers, while respecting privacy regulations and intellectual property protections?
+
+B (RAG):  How can reliable automated grading of student answers be achieved, despite challenges arising from language differences and annotator bias?
+
+A: clarity= , relevance= , completeness= 
+B: clarity= , relevance= , completeness= 
+Лучше: 
+
+────────────────────────────────────────
+Статья 25 [EN]
+Файл: 2603.29518v1.pdf
+
+Эталон: , inform, request, confirm) via DAs and enumerate the semantic content with slot value pairs. In this work, our objective is to analyse whether providing a task demonstrator to the generator enhances ...
+
+A (Base): How can enriched meaning representations improve the quality of language generation in dialogue tasks?
+
+B (RAG):  How can natural language generation models effectively generate diverse language forms to interact fluently and accurately in dialogue tasks?
+
+A: clarity= , relevance= , completeness= 
+B: clarity= , relevance= , completeness= 
+Лучше: 
+
+────────────────────────────────────────
+Статья 26 [EN]
+Файл: 2603.29765v1.pdf
+
+Эталон: Expertise finetuning can address this issue; however, it often leads to overspecialization, and developing a single multi-domain expert remains difficult due to diverging objectives. Furthermore, mult...
+
+A (Base): How can domain-specific expertise be combined into a single, efficient model without costly retraining or overspecialization?
+
+B (RAG):  How can we efficiently combine expertise from diverse models without costly multitask training?
+
+A: clarity= , relevance= , completeness= 
+B: clarity= , relevance= , completeness= 
+Лучше: 
+
+────────────────────────────────────────
+Статья 27 [EN]
+Файл: 2603.29557v1.pdf
+
+Эталон: , 2025] aim to support the complete lifecy- cle of autonomous research, with the ul- timate goal of producing a full research paper, including code generation and ex- perimental execution....
+
+A (Base): How can scientific ideas be generated that are diverse and avoid information cocoons arising from over-reliance on parametric knowledge and static literature?
+
+B (RAG):  How can LLMs leverage retrieved literature and their relationships to generate novel and divergent ideas and continuous refinement?
+
+A: clarity= , relevance= , completeness= 
+B: clarity= , relevance= , completeness= 
+Лучше: 
+
+────────────────────────────────────────
+Статья 28 [EN]
+Файл: 2603.29777v1.pdf
+
+Эталон: Agent Layer The long-term goal of the system is to achieve an agent-based architecture that controls the perception and reasoning components....
+
+A (Base): How can real-time video analysis be deployed in public safety applications, balancing latency, privacy, and resource limitations, particularly under edge-computing conditions?
+
+B (RAG):  How can video analysis systems be deployed in public spaces to balance the need for timely detection of critical events with constraints on latency, privacy, and resource limitations?
+
+A: clarity= , relevance= , completeness= 
+B: clarity= , relevance= , completeness= 
+Лучше: 
+
+────────────────────────────────────────
+Статья 29 [EN]
+Файл: 2603.27844v1.pdf
+
+Эталон: , 2025]: 3 models, 23+ experiments, and 50 IMO-level problems on a single H100 80GB with a 5-hour limit....
+
+A (Base): How can correlated errors in multiple attempts at mathematical reasoning be reduced to improve the accuracy of majority voting?
+
+B (RAG):  How can correlated errors in multiple attempts at mathematical reasoning be mitigated to improve the overall accuracy of the system?
+
+A: clarity= , relevance= , completeness= 
+B: clarity= , relevance= , completeness= 
+Лучше: 
+
+────────────────────────────────────────
+Статья 30 [EN]
+Файл: 2603.29570v1.pdf
+
+Эталон: We formulate this as a conditional image generation problem, wherein the objective is to learn a function: :( , ) Here, ∼N( 0, )denotes a Gaussian noise vector capturing sto- chastic variation, ∈Y is ...
+
+A (Base): How can we accurately generate key postures of Bharatanatyam dance, maintaining anatomical accuracy and stylistic integrity?
+
+B (RAG):  How can we accurately generate key postures of Bharatanatyam dance, maintaining anatomical accuracy and stylistic integrity?
+
+A: clarity= , relevance= , completeness= 
+B: clarity= , relevance= , completeness= 
+Лучше: 
+
+────────────────────────────────────────
+Статья 31 [RU]
+Файл: ru_04_klassifikatsiya-tekstov-s-pomoschyu-svertochnyh-neyronnyh-se.pdf
+
+Эталон: Это привело к множественным попыткам использования этой модели в других областях с целью улучшить результаты в сравнении с традиционными методами ....
+
+A (Base): Какова эффективность использования сверточных нейронных сетей для классификации коротких текстов в качестве отдельного элемента сложной задачи, такой как создание интеллектуального онлайн-консультанта или чат-бота?
+
+B (RAG):  "Каковы оптимальные методы и параметры использования сверточных нейронных сетей для классификации коротких текстов, а также какой результат показывает построенный классификатор в сравнении с другими методами (включая опорные векторы и рекуррентные нейронные сети) для применения в чат-боте?"
+
+A: clarity= , relevance= , completeness= 
+B: clarity= , relevance= , completeness= 
+Лучше: 
+
+────────────────────────────────────────
+Статья 32 [RU]
+Файл: ru_01_primenenie-neyronnyh-setey-v-obrabotke-estestvennogo-yazyka.pdf
+
+Эталон: В-третьих, существует проблема подделки текстовых данных, когда созданный компью - тером текст может быть использован для распространения ложной информации или манипуляции общественным мнением....
+
+A (Base): Какова роль и развитие нейронных сетей в автоматическом переводе естественного языка?
+
+B (RAG):  Какова роль и перспектива применения нейронных сетей в обработке естественного языка для автоматизации задач, связанных с текстовой информацией?
+
+A: clarity= , relevance= , completeness= 
+B: clarity= , relevance= , completeness= 
+Лучше: 
+
+────────────────────────────────────────
+Статья 33 [RU]
+Файл: ru_09_metody-raspoznavaniya-imenovannyh-suschnostey-v-russkom-yazy.pdf
+
+Эталон: Важно й частью в решении задач обработки естественного языка является выбо р векторного представления слов . Цель данной работы - разработать эффективный метод для решения задачи распознавания именова...
+
+A (Base): Какова эффективная архитектура рекуррентной нейронной сети для распознавания именованных сущностей в русском языке, учитывая контекст слова и условные случайные поля?
+
+B (RAG):  Какова эффективная методика распознавания именованных сущностей в русском языке при помощи рекуррентных нейронных сетей?
+
+A: clarity= , relevance= , completeness= 
+B: clarity= , relevance= , completeness= 
+Лучше: 
+
+────────────────────────────────────────
+Статья 34 [RU]
+Файл: ru_08_analiz-tonalnosti-teksta-metodami-mashinnogo-obucheniya.pdf
+
+Эталон: 18413/2518 -1092 -2021 -6-1-0-7 ВВЕДЕНИЕ Анализ тональности текста это подраздел обработки естественного языка ( NLP) целью кото рого является классификация текста по тональности....
+
+A (Base): Какова эффективность различных методов машинного обучения для анализа тональности текста на естественном языке?
+
+B (RAG):  Какие методы и подходы являются наиболее результативными для анализа тональности текста на естественном языке при использовании традиционного машинного обучения и глубокого обучения?
+
+A: clarity= , relevance= , completeness= 
+B: clarity= , relevance= , completeness= 
+Лучше: 
+
+────────────────────────────────────────
+Статья 35 [RU]
+Файл: ru_17_sravnitelnyy-analiz-modeley-transformera-dlya-klassifikatsii.pdf
+
+Эталон: Татищева, 20а, кандидат технических наук, ORCID: 0000 -0003 -1378 -3553, e-mail: В данной статье представлен обзор подхода к классификации неструктурированной текстовой информа - ции с использованием ...
+
+A (Base): Какая является эффективная модель трансформера для классификации неструктурированной текстовой информации и какие факторы влияют на её эффективность?
+
+B (RAG):  "Какова эффективность использования трансформеров (например, BERT, GPT и RoBERTa) в задаче классификации неструктурированной текстовой информации и какие факторы могут влиять на их эффективность?"
+
+A: clarity= , relevance= , completeness= 
+B: clarity= , relevance= , completeness= 
+Лучше: 
+
+────────────────────────────────────────
+Статья 36 [RU]
+Файл: ru_03_generatsiya-teksta-s-pomoschyu-neyronnyh-setey.pdf
+
+Эталон: Данный метод уменьшает количество ошибок при построении частотных для языка слов, поскольку в нём уделяется большое внимание грамматике и сохраняется смысл фраз. Цель исследования Реализация модели ге...
+
+A (Base): Качество генерации текста с помощью нейронных сетей и способы улучшения его качества (пост-обучение, генеративно-состязательные сети).
+
+B (RAG):  "Какова эффективность и качество генерации текста с помощью нейросетевых моделей в сравнении с традиционными методами?"
+
+A: clarity= , relevance= , completeness= 
+B: clarity= , relevance= , completeness= 
+Лучше: 
+
+────────────────────────────────────────
+Статья 37 [RU]
+Файл: ru_12_intellektualnyy-analiz-teksta.pdf
+
+Эталон: В частности, он включает в себя процессы компиляции, организации и анализа больших коллекций документов с целью извлечения 477 Научно -образовательный журнал для студентов и преподавателей «StudNet» №...
+
+A (Base): Какие методы и подходы можно использовать для автоматизированного интеллектуального анализа текстовых данных с целью извлечения новых и потенциально полезных знаний?
+
+B (RAG):  "Какие методы и подходы можно использовать для интеллектуального анализа неструктурированных текстовых данных с целью получения новой информации, организации больших коллекций документов и обнаружения ранее неизвестных связей между текстами?"
+
+A: clarity= , relevance= , completeness= 
+B: clarity= , relevance= , completeness= 
+Лучше: 
+
+────────────────────────────────────────
+Статья 38 [RU]
+Файл: ru_02_metody-glubokogo-obucheniya-dlya-obrabotki-tekstov-na-estest.pdf
+
+Эталон: Важной задачей при анализе рентгеногр афических изображений медицинских биологических объектов и их фрагментов является решение задачи улучшения качества изображения. С целью улучш е- ния качества рен...
+
+A (Base): Как оптимизировать архитектуру сверточных нейронных сетей для эффективного решения задач обработки естественного языка?
+
+B (RAG):  Какова оптимальная архитектура сверточной нейронной сети для улучшения точности в задачах обработки естественного языка, и как можно эффективно выбрать параметры такой сети с помощью эволюционного алгоритма?
+
+A: clarity= , relevance= , completeness= 
+B: clarity= , relevance= , completeness= 
+Лучше: 
+
+────────────────────────────────────────
+Статья 39 [RU]
+Файл: ru_11_klassifikatsiya-nauchnyh-tekstov-po-spetsialnostyam-metodami.pdf
+
+Эталон: Выявление смысла является основной задачей анализа содержимого текстов. В данной статье в качестве обучающей и тестовой выборки текстов были отобраны документы: авто - рефераты и диссертации, которые ...
+
+A (Base): Какова эффективность классификации научных текстовых материалов по специальностям с помощью методов машинного обучения?
+
+B (RAG):  Какая является эффективная методика классификации научных текстов по специальностям с использованием алгоритмов машинного и глубокого обучения, и как можно увеличить точность и быстродействие такой классификации?
+
+A: clarity= , relevance= , completeness= 
+B: clarity= , relevance= , completeness= 
+Лучше: 
+
+────────────────────────────────────────
+Статья 40 [RU]
+Файл: ru_18_intellektualnaya-obrabotka-tekstovoy-informatsii-obzor-avtom.pdf
+
+Эталон: Технологическая основа автоматизированной суммаризации Основу составляют различные алгоритмы, суть работы которых описывается в данной статье нема- тематическим языком с целью получения общего предста...
+
+A (Base): Какая эффективность и точность используются современными моделями автоматизированной суммаризации текста, а также как выбирать подходящую модель для разных задач?
+
+B (RAG):  "Каковы актуальные парадигмы и сервисы автоматизированной суммаризации текста, используемые современными нейросетевыми моделями, и как они сравнимы по качеству и объёму создаваемых резюме?"
+
+A: clarity= , relevance= , completeness= 
+B: clarity= , relevance= , completeness= 
+Лучше: 
+
+────────────────────────────────────────
+Статья 41 [RU]
+Файл: ru_13_sravnitelnyy-analiz-algoritmov-klassifikatsii-tekstov-ot-kla.pdf
+
+Эталон: Классификация текстовых документов ключевая задача обработки естественного языка (NLP) и машинного обучения, имеющая множество приложений: фильтрация спама, тематическая сортировка новостей, анализ то...
+
+A (Base): Какая является эволюция качества классификации текстовых документов от классических алгоритмов машинного обучения к современным глубинным нейросетевым моделям?
+
+B (RAG):  "Каковы преимущества и ограничения различных алгоритмов классификации текстов, от традиционных методов до глубинных нейросетевых моделей (например, BERT), в контексте обработки естественного языка?"
+
+A: clarity= , relevance= , completeness= 
+B: clarity= , relevance= , completeness= 
+Лучше: 
+
+────────────────────────────────────────
+Статья 42 [RU]
+Файл: ru_07_effektivnost-neyrosetevyh-algoritmov-v-avtomaticheskom-refer.pdf
+
+Эталон: Статья посвящена анализу роли и эффективности нейросетевых алгоритмов в задачах автоматического рефе - рирования и суммаризации текстов, которые являются ключевыми в области обработки естественного яз...
+
+A (Base): Какая эффективность нейросетевых алгоритмов в автоматическом реферировании и суммаризации текстов в области обработки естественного языка (NLP)?
+
+B (RAG):  Какова роль и эффективность нейросетевых алгоритмов в автоматическом реферировании и суммаризации текстов в области обработки естественного языка (NLP), а также как могут помочь глубинное обучение, трансформеры, BERT и GPT для улучшения качества реферирования и доступности информации?
+
+A: clarity= , relevance= , completeness= 
+B: clarity= , relevance= , completeness= 
+Лучше: 
+
+────────────────────────────────────────
+Статья 43 [RU]
+Файл: ru_19_bazovaya-arhitektura-metody-i-algoritmy-sistemy-izvlecheniya.pdf
+
+Эталон: Сердюк Базовая архитектура, методы и алгоритмы системы извлечения темпоральной информации из текстов на естественном языке Аннотация. В данной статье представляется базовая архитектура системы извлече...
+
+A (Base): Какова базовая архитектура, методы и алгоритмы для извлечения темпоральной информации из текстов на естественном языке?
+
+B (RAG):  "Какова базовая архитектура и какие методы и алгоритмы необходимы для извлечения темпоральной информации из текстов на естественном языке, используя синтаксические зависимости между словами, семантические роли групп слов и методы машинного обучения?"
+
+A: clarity= , relevance= , completeness= 
+B: clarity= , relevance= , completeness= 
+Лучше: 
+
+────────────────────────────────────────
+Статья 44 [RU]
+Файл: ru_16_kontsept-predobuchennyh-yazykovyh-modeley-v-kontekste-inzhen.pdf
+
+Эталон: Автор обосновывает актуальность вопроса о содержа нии в предобученных языковых моделях имплицитных, интернализированных знаний, извлеченных из текстовых корпусов, использовавшихся для предобучения ( p...
+
+A (Base): Какова роль и значение предобученных языковых моделей в инженерии знаний, а также их способности к захвату (извлечению) знаний и рассуждениям?
+
+B (RAG):  Какова роль и содержание имплицитных, интернализированных знаний в предобученных языковых моделях, использующихся для предобучения (pretraining) или переноса обучения (transfer learning), и как они могут быть использованы для поиска и извлечения неструктурированных знаний, а также в качестве самостоятельных баз знаний?
+
+A: clarity= , relevance= , completeness= 
+B: clarity= , relevance= , completeness= 
+Лучше: 
+
+────────────────────────────────────────
+Статья 45 [RU]
+Файл: ru_14_issledovanie-primenimosti-modeley-glubokogo-obucheniya-dlya-.pdf
+
+Эталон: Подвесовский ИССЛЕДОВАНИЕ ПРИМЕНИМОСТИ МОДЕЛЕЙ ГЛУБОКОГО ОБУЧЕНИЯ ДЛЯ ЗАДАЧИ АСПЕКТНОГО АНАЛИЗА ТОНАЛЬНОСТИ ТЕКСТОВЫХ СООБЩЕНИЙ Рассмотрена задача аспектного анализа тональности текстовых сообщений на...
+
+A (Base): Как создать эффективную модель глубокого обучения для автоматического аспектного анализа тональности текстовых сообщений на естественном языке, учитывая неоднозначность слов, структуру текстов и синтаксические ошибки.
+
+B (RAG):  "Какие глубокообученные модели эффективны для аспектного анализа тональности текстовых сообщений на естественном языке, и какой метод интеллектуального анализа может быть применен для определения субъекта обсуждения и объекта в социальных сетях?"
+
+A: clarity= , relevance= , completeness= 
+B: clarity= , relevance= , completeness= 
+Лучше: 
+
+────────────────────────────────────────
+Статья 46 [EN]
+Файл: 2603.27949v1.pdf
+
+Эталон: The experimental results demonstrate that EnsemJudge achieves state-of-the-art per- formance, showing strong generalization and robustness across various text types and attack settings. This work high...
+
+A (Base): What is the scientific problem addressed in this paper? The paper aims to develop a robust framework for detecting Chinese Large Language Model (LLM)-generated text, addressing the challenge of improving the reliability and effectiveness of LLM-generated text detection methods, particularly in real-world scenarios involving out-of-domain inputs or adversarial samples, and with limited work focusing on Chinese text detection.
+
+B (RAG):  The scientific problem is: How can we develop a robust and reliable framework for detecting Chinese Large Language Model (LLM)-generated texts in real-world scenarios, especially when dealing with out-of-domain inputs or adversarial samples, to mitigate the misuse of LLMs?
+
+A: clarity= , relevance= , completeness= 
+B: clarity= , relevance= , completeness= 
+Лучше: 
+
+────────────────────────────────────────
+Статья 47 [EN]
+Файл: 2603.29336v1.pdf
+
+Эталон: In constructing this cor- pus, we developed a design policy based on key issues in defining the EL task, and clarified how to handle cases in which it is difficult to determine whether a mention shoul...
+
+A (Base): What is the lack of comprehensive language resources for Japanese Entity Linking, and how can an annotated corpus be developed to address this gap, providing rich coverage of linguistic expressions specific to Japan for training and evaluating Japanese entity linking systems?
+
+B (RAG):  The scientific problem addressed in this study is to develop and construct an annotated corpus for training and evaluating Japanese entity linking systems, with a focus on linguistic expressions specific to Japan, to address the limited resources available for evaluating Japanese entity linking systems compared to English.
+
+A: clarity= , relevance= , completeness= 
+B: clarity= , relevance= , completeness= 
+Лучше: 
+
+────────────────────────────────────────
+Статья 48 [EN]
+Файл: 2603.29979v1.pdf
+
+Эталон: Structural Feature Engineering Objective Given contentcwith structural featuresSF(c), our optimization objective is to find the optimal structural configurationSF∗that maximizes citation probability a...
+
+A (Base): How does the structural organization of content impact citation performance by large language models (LLMs) in generative engine optimization, and can a systematic methodology be developed to optimize content structure for improved LLM-generated citations?
+
+B (RAG):  How does the structural organization of content impact citation behavior in AI-powered search engines, and how can we develop a systematic, data-driven methodology for optimizing content structure using Generative Engine Optimization (GEO)?
+
+A: clarity= , relevance= , completeness= 
+B: clarity= , relevance= , completeness= 
+Лучше: 
+
+────────────────────────────────────────
+Статья 49 [EN]
+Файл: 2604.02194v1.pdf
+
+Эталон: This effectively aligns the LLM s generative capabilities with our context-filtering objective. For this, we construct a dataset as follows: for a pair (qi,{di,j}k j=1)∈ D Q, we em- ploy an external L...
+
+A (Base): How to enhance the robustness of Retrieval-Augmented Language Models (RALMs) by leveraging the inherent neuron-level sparsity of Large Language Models (LLMs), focusing on direct noise suppression and targeted layer optimization for evidence distillation?
+
+B (RAG):  How can we develop a robust Retrieval-Augmented Language Model that addresses performance degradation when presented with irrelevant or noisy retrieved contexts, while leveraging the inherent neuron-level sparsity of Large Language Models, instead of relying on coarse-grained parameter updates at the layer or module level?
+
+A: clarity= , relevance= , completeness= 
+B: clarity= , relevance= , completeness= 
+Лучше: 
+
+────────────────────────────────────────
+Статья 50 [EN]
+Файл: 2603.28858v1.pdf
+
+Эталон: In this work, we proposeOPTIMER, which decouples ratio selection from training: we train one CPT model per dataset, extract each model s distribution vector, which represents the parameter shift induc...
+
+A (Base): What is the scientific problem addressed in this paper? The paper proposes a solution to optimize the data mixture ratio selection for continual pre-training of large language models, which is a critical yet sensitive hyperparameter that can significantly impact model performance and waste compute resources if suboptimally chosen.
+
+B (RAG):  What is the optimal data mixture ratio for continual pre-training of large language models (LLMs) in various languages and domains, and how can this ratio be efficiently determined post-hoc via Bayesian optimization to improve model performance?
+
+A: clarity= , relevance= , completeness= 
+B: clarity= , relevance= , completeness= 
+Лучше: 
+
+────────────────────────────────────────
+Статья 51 [EN]
+Файл: 2603.29520v1.pdf
+
+Эталон: , VPNs) has significantly challenged traditional traffic analysis techniques, making en- crypted traffic classification a critical yet challenging problem. Early studies mainly relied on port-based an...
+
+A (Base): How can encrypted traffic classification be improved for network security by developing a heterogeneity-aware Mixture of Experts (MoE) framework that disentangles headers and payloads, mitigates stochastic noise, and dynamically aggregates cross-modality features to adaptively weigh contributions based on traffic context?
+
+B (RAG):  The scientific problem addressed in this paper is to develop a more effective method for encrypted traffic classification in network security, specifically addressing the challenge of degrading fine-grained discriminative features due to the occlusion of payload semantics by encryption. The proposed solution aims to break through the bottleneck of static modeling by establishing a Disentangle Filter Aggregate (DFA) paradigm that disentangles headers and payloads, filters unreliable tokens via uncertainty weighting, and dynamically aggregates features across modalities for encrypted traffic representation.
+
+A: clarity= , relevance= , completeness= 
+B: clarity= , relevance= , completeness= 
+Лучше: 
+
+────────────────────────────────────────
+Статья 52 [EN]
+Файл: 2603.29407v1.pdf
+
+Эталон: Finally, although details on TAU are scarce, its design similarly focuses on optimizing local feature extraction within a classical paradigm, leaving non-local correlation modeling an open challenge. ...
+
+A (Base): How to accurately forecast three-dimensional (3D) cloud fields, which exhibit stronger structural complexity due to multiscale transport, cross-layer coupling, and nonlinear physical processes, using a hybrid quantum-inspired spatiotemporal forecasting framework that addresses the limitations of existing models based on convolutions, recurrence, or attention in preserving fine cloud structures?
+
+B (RAG):  The scientific problem addressed in this paper is: How to accurately forecast three-dimensional (3D) cloud fields while preserving fine cloud structures in volumetric forecasting tasks, as existing spatiotemporal prediction models based on convolutions, recurrence, or attention often rely on locality-biased representations and struggle with this challenge.
+
+A: clarity= , relevance= , completeness= 
+B: clarity= , relevance= , completeness= 
+Лучше: 
+
+────────────────────────────────────────
+Статья 53 [EN]
+Файл: 2603.29902v1.pdf
+
+Эталон: Annotators remove redundant or semantically mismatched calls, fix issues such as malformed syntax and inappropriate tool choices, and relocate misplaced tags to paragraph boundaries to avoid disruptin...
+
+A (Base): How to develop a method for Agentic Tool Planning in Multimodal Large Language Models (MLLMs) that can autonomously determine when, where, and which tools to invoke to produce interleaved responses for visual-critical queries, bridging the gap between digital assistance and real-world application?
+
+B (RAG):  The scientific problem is to develop a unified approach for Multimodal Large Language Models (MLLMs) that can interleave text and image generation, while maintaining factuality and creativity, and improving coherent interleaved planning. This involves creating an Agentic Tool Planning paradigm where the model serves as a central controller determining when, where, and which tools to invoke for visual-critical queries, and evaluating this approach using a novel benchmark (ATP-Bench) and Multi-Agent MLLM-as-a-Judge (MAM) system.
+
+A: clarity= , relevance= , completeness= 
+B: clarity= , relevance= , completeness= 
+Лучше: 
+
+────────────────────────────────────────
+Статья 54 [EN]
+Файл: 2603.28537v2.pdf
+
+Эталон: To train some of these methods, which require machine learning, or to compute parameters or select hyperparameters for those that do not, a large amount of domain-specific data is needed. In this work...
+
+A (Base): How to generate a large-scale training dataset for context-dependent rubric-based short answer grading using only a relatively small confidential dataset as a reference, while preserving confidentiality and ensuring the generated data is similar to the reference dataset?
+
+B (RAG):  What is an effective method for generating a large-scale training dataset for automatic grading of student answers while preserving confidentiality and avoiding language differences and annotator bias?
+
+A: clarity= , relevance= , completeness= 
+B: clarity= , relevance= , completeness= 
+Лучше: 
+
+────────────────────────────────────────
+Статья 55 [EN]
+Файл: 2603.29518v1.pdf
+
+Эталон: , inform, request, confirm) via DAs and enumerate the semantic content with slot value pairs. In this work, our objective is to analyse whether providing a task demonstrator to the generator enhances ...
+
+A (Base): What is the impact of enriched meaning representations on the quality of language generation in dialogue tasks across various datasets and evaluation metrics, and how do these representations affect the performance of generative models in complex tasks, small datasets with high variability, and zero-shot settings?
+
+B (RAG):  The scientific problem addressed in this paper is: "How does providing an enriched Meaning Representation (MR) demonstrator to a fine-tuned Natural Language Generation (NLG) model impact the quality of language generation across various dialogue tasks, corpora characteristics, and evaluation metrics?"
+
+A: clarity= , relevance= , completeness= 
+B: clarity= , relevance= , completeness= 
+Лучше: 
+
+────────────────────────────────────────
+Статья 56 [EN]
+Файл: 2603.29765v1.pdf
+
+Эталон: Expertise finetuning can address this issue; however, it often leads to overspecialization, and developing a single multi-domain expert remains difficult due to diverging objectives. Furthermore, mult...
+
+A (Base): How to construct a unified multi-domain and multi-task language model that preserves the capabilities of specialized models without requiring additional training, while minimizing destructive interference between experts trained on different domains?
+
+B (RAG):  The scientific problem addressed in this paper is finding an efficient and scalable method to construct a single, multi-domain Mixture of Experts (MoE) model that preserves the capabilities of original dense experts without requiring additional training, while addressing issues of overspecialization, interference, and catastrophic forgetting in multitask training.
+
+A: clarity= , relevance= , completeness= 
+B: clarity= , relevance= , completeness= 
+Лучше: 
+
+────────────────────────────────────────
+Статья 57 [EN]
+Файл: 2603.29557v1.pdf
+
+Эталон: , 2025] aim to support the complete lifecy- cle of autonomous research, with the ul- timate goal of producing a full research paper, including code generation and ex- perimental execution....
+
+A (Base): How to develop a scientific idea generation framework that overcomes the limitations of existing methods by treating literature exploration and idea generation as a co-evolving process, mitigating the information cocoons arising from over-reliance on parametric knowledge and static literature, and producing ideas with higher novelty, feasibility, and diversity compared to strong LLM-based and agent-based frameworks?
+
+B (RAG):  What is the challenge in AI-driven autonomous research for scientific idea generation, and how can a tightly coupled retrieval-generation framework like FlowPIE address this challenge by expanding literature trajectories, modeling idea evolution, and mitigating information cocoons to produce more novel, feasible, and diverse ideas compared to existing approaches?
+
+A: clarity= , relevance= , completeness= 
+B: clarity= , relevance= , completeness= 
+Лучше: 
+
+────────────────────────────────────────
+Статья 58 [EN]
+Файл: 2603.29777v1.pdf
+
+Эталон: Agent Layer The long-term goal of the system is to achieve an agent-based architecture that controls the perception and reasoning components....
+
+A (Base): What is the optimal hybrid edge-based action detection system design for real-time, privacy-aware, and resource-efficient video analysis in public safety applications, combining skeleton-based motion analysis with vision-language models for semantic scene interpretation under edge computing conditions?
+
+B (RAG):  The scientific problem addressed in this paper is designing and deploying a hybrid edge-based action detection system that combines skeleton-based motion analysis with vision-language models, aiming to provide privacy-aware, real-time video analysis under edge-computing conditions for public safety applications, while addressing the practical challenges of latency, resource limitations, and operational trade-offs.
+
+A: clarity= , relevance= , completeness= 
+B: clarity= , relevance= , completeness= 
+Лучше: 
+
+────────────────────────────────────────
+Статья 59 [EN]
+Файл: 2603.27844v1.pdf
+
+Эталон: , 2025]: 3 models, 23+ experiments, and 50 IMO-level problems on a single H100 80GB with a 5-hour limit....
+
+A (Base): How can inference-time optimization techniques bridge a significant capability gap between large language models when errors are correlated and diverse reasoning strategies fail to decorrelate them?
+
+B (RAG):  The scientific problem addressed in this paper is: How to reduce the correlation of errors in a model's mathematical reasoning by assigning structurally different reasoning strategies to different voters, as the effective sample size becomes limited due to correlated errors in majority voting over multiple attempts.
+
+A: clarity= , relevance= , completeness= 
+B: clarity= , relevance= , completeness= 
+Лучше: 
+
+────────────────────────────────────────
+Статья 60 [EN]
+Файл: 2603.29570v1.pdf
+
+Эталон: We formulate this as a conditional image generation problem, wherein the objective is to learn a function: :( , ) Here, ∼N( 0, )denotes a Gaussian noise vector capturing sto- chastic variation, ∈Y is ...
+
+A (Base): How can we generate accurate and authentic key postures of Bharatanatyam Adavus using a generative framework integrated with pose estimation, ensuring anatomical accuracy, stylistic integrity, and cultural fidelity in the digital preservation, education, and dissemination of traditional dance forms?
+
+B (RAG):  The scientific problem addressed in this paper is: How to accurately generate key postures of Bharatanatyam, a classical Indian dance form, while maintaining its anatomical and stylistic integrity, for effective documentation, analysis, and transmission to broader audiences through digital means.
+
+A: clarity= , relevance= , completeness= 
+B: clarity= , relevance= , completeness= 
+Лучше: 
+
+────────────────────────────────────────
+Статья 61 [RU]
+Файл: ru_04_klassifikatsiya-tekstov-s-pomoschyu-svertochnyh-neyronnyh-se.pdf
+
+Эталон: Это привело к множественным попыткам использования этой модели в других областях с целью улучшить результаты в сравнении с традиционными методами ....
+
+A (Base): Как эффективно использовать сверточные нейронные сети для классификации коротких текстов в задачах разработки чат-ботов?
+
+B (RAG):  Актуализируется вопрос о применении сверточных нейронных сетей для улучшения классификации коротких текстов в условиях обработки естественного языка.
+
+A: clarity= , relevance= , completeness= 
+B: clarity= , relevance= , completeness= 
+Лучше: 
+
+────────────────────────────────────────
+Статья 62 [RU]
+Файл: ru_01_primenenie-neyronnyh-setey-v-obrabotke-estestvennogo-yazyka.pdf
+
+Эталон: В-третьих, существует проблема подделки текстовых данных, когда созданный компью - тером текст может быть использован для распространения ложной информации или манипуляции общественным мнением....
+
+A (Base): Как повысить точность и качество автоматического перевода с помощью нейронных сетей в обработке естественного языка?
+
+B (RAG):  Каким образом нейронные сети могут улучшить точность обработки естественного языка в различных приложениях?
+
+A: clarity= , relevance= , completeness= 
+B: clarity= , relevance= , completeness= 
+Лучше: 
+
+────────────────────────────────────────
+Статья 63 [RU]
+Файл: ru_09_metody-raspoznavaniya-imenovannyh-suschnostey-v-russkom-yazy.pdf
+
+Эталон: Важно й частью в решении задач обработки естественного языка является выбо р векторного представления слов . Цель данной работы - разработать эффективный метод для решения задачи распознавания именова...
+
+A (Base): Как разработать эффективный метод для распознавания именованных сущностей в русском языке с использованием двунаправленных рекуррентных нейронных сетей и условных случайных полей.
+
+B (RAG):  Как разработать эффективный метод для распознавания именованных сущностей в русском языке с использованием рекуррентных нейронных сетей?
+
+A: clarity= , relevance= , completeness= 
+B: clarity= , relevance= , completeness= 
+Лучше: 
+
+────────────────────────────────────────
+Статья 64 [RU]
+Файл: ru_08_analiz-tonalnosti-teksta-metodami-mashinnogo-obucheniya.pdf
+
+Эталон: 18413/2518 -1092 -2021 -6-1-0-7 ВВЕДЕНИЕ Анализ тональности текста это подраздел обработки естественного языка ( NLP) целью кото рого является классификация текста по тональности....
+
+A (Base): Какие из методов машинного обучения наиболее эффективны для анализа тональности текста на естественном языке?
+
+B (RAG):  Какие методы машинного обучения наиболее эффективны для анализа тональности текста на естественном языке?
+
+A: clarity= , relevance= , completeness= 
+B: clarity= , relevance= , completeness= 
+Лучше: 
+
+────────────────────────────────────────
+Статья 65 [RU]
+Файл: ru_17_sravnitelnyy-analiz-modeley-transformera-dlya-klassifikatsii.pdf
+
+Эталон: Татищева, 20а, кандидат технических наук, ORCID: 0000 -0003 -1378 -3553, e-mail: В данной статье представлен обзор подхода к классификации неструктурированной текстовой информа - ции с использованием ...
+
+A (Base): Исследование эффективности различных моделей трансформера для классификации неструктурированной текстовой информации и оптимизация параметров этих моделей.
+
+B (RAG):  Какие архитектурные и методические факторы влияют на эффективность классификации неструктурированной текстовой информации с использованием моделей трансформера?
+
+A: clarity= , relevance= , completeness= 
+B: clarity= , relevance= , completeness= 
+Лучше: 
+
+────────────────────────────────────────
+Статья 66 [RU]
+Файл: ru_03_generatsiya-teksta-s-pomoschyu-neyronnyh-setey.pdf
+
+Эталон: Данный метод уменьшает количество ошибок при построении частотных для языка слов, поскольку в нём уделяется большое внимание грамматике и сохраняется смысл фраз. Цель исследования Реализация модели ге...
+
+A (Base): Алгоритмы генерации текста с использованием нейронных сетей требуют улучшения для эффективного обработки нестандартных запросов и обеспечения высокого качества текстовой генерации.
+
+B (RAG):  Актуальность и эффективность генерации текста с использованием нейронных сетей в области обработки естественного языка остается нерешенной задачей.
+
+A: clarity= , relevance= , completeness= 
+B: clarity= , relevance= , completeness= 
+Лучше: 
+
+────────────────────────────────────────
+Статья 67 [RU]
+Файл: ru_12_intellektualnyy-analiz-teksta.pdf
+
+Эталон: В частности, он включает в себя процессы компиляции, организации и анализа больших коллекций документов с целью извлечения 477 Научно -образовательный журнал для студентов и преподавателей «StudNet» №...
+
+A (Base): Необходимо разработать эффективные методы и технологии для автоматизированного интеллектуального анализа текстовых данных с целью извлечения новых знаний и обнаружения ранее неизвестных связей.
+
+B (RAG):  Какие методы интеллектуального анализа текстов можно использовать для эффективного обработки и извлечения информации из неструктурированных данных?
+
+A: clarity= , relevance= , completeness= 
+B: clarity= , relevance= , completeness= 
+Лучше: 
+
+────────────────────────────────────────
+Статья 68 [RU]
+Файл: ru_02_metody-glubokogo-obucheniya-dlya-obrabotki-tekstov-na-estest.pdf
+
+Эталон: Важной задачей при анализе рентгеногр афических изображений медицинских биологических объектов и их фрагментов является решение задачи улучшения качества изображения. С целью улучш е- ния качества рен...
+
+A (Base): Как оптимизировать архитектуру сверточных нейронных сетей для задач обработки естественного языка с использованием эволюционного алгоритма при одновременном сохранении высокой точности модели.
+
+B (RAG):  Как оптимизировать архитектуры сверточных нейронных сетей для задач обработки естественного языка, учитывая проблемы с большим числом варьируемых параметров и выбором архитектуры?
+
+A: clarity= , relevance= , completeness= 
+B: clarity= , relevance= , completeness= 
+Лучше: 
+
+────────────────────────────────────────
+Статья 69 [RU]
+Файл: ru_11_klassifikatsiya-nauchnyh-tekstov-po-spetsialnostyam-metodami.pdf
+
+Эталон: Выявление смысла является основной задачей анализа содержимого текстов. В данной статье в качестве обучающей и тестовой выборки текстов были отобраны документы: авто - рефераты и диссертации, которые ...
+
+A (Base): Проблема заключается в повышении точности и скорости классификации научных текстовых материалов по специальностям с использованием методов машинного обучения.
+
+B (RAG):  Проблема заключается в повышении точности и эффективности классификации научных текстов по специальностям с использованием методов машинного и глубокого обучения.
+
+A: clarity= , relevance= , completeness= 
+B: clarity= , relevance= , completeness= 
+Лучше: 
+
+────────────────────────────────────────
+Статья 70 [RU]
+Файл: ru_18_intellektualnaya-obrabotka-tekstovoy-informatsii-obzor-avtom.pdf
+
+Эталон: Технологическая основа автоматизированной суммаризации Основу составляют различные алгоритмы, суть работы которых описывается в данной статье нема- тематическим языком с целью получения общего предста...
+
+A (Base): Какие современные методы и модели искусственного интеллекта эффективно используются для автоматизированной суммаризации текстовой информации, и каковы их преимущества и недостатки по сравнению с экстрактивными подходами?
+
+B (RAG):  Как автоматизированные суммаризаторы могут эффективно сочетать экстрактивные и абстрактивные методы для создания качественных резюме текстовой информации?
+
+A: clarity= , relevance= , completeness= 
+B: clarity= , relevance= , completeness= 
+Лучше: 
+
+────────────────────────────────────────
+Статья 71 [RU]
+Файл: ru_13_sravnitelnyy-analiz-algoritmov-klassifikatsii-tekstov-ot-kla.pdf
+
+Эталон: Классификация текстовых документов ключевая задача обработки естественного языка (NLP) и машинного обучения, имеющая множество приложений: фильтрация спама, тематическая сортировка новостей, анализ то...
+
+A (Base): Какие преимущества и недостатки имеют классические алгоритмы машинного обучения по сравнению с современными глубинными нейросетевыми моделями при классификации текстовых документов?
+
+B (RAG):  Какие преимущества и ограничения имеют классические алгоритмы машинного обучения по сравнению с современными методами глубинного обучения при классификации текстовых документов?
+
+A: clarity= , relevance= , completeness= 
+B: clarity= , relevance= , completeness= 
+Лучше: 
+
+────────────────────────────────────────
+Статья 72 [RU]
+Файл: ru_07_effektivnost-neyrosetevyh-algoritmov-v-avtomaticheskom-refer.pdf
+
+Эталон: Статья посвящена анализу роли и эффективности нейросетевых алгоритмов в задачах автоматического рефе - рирования и суммаризации текстов, которые являются ключевыми в области обработки естественного яз...
+
+A (Base): Эффективность нейросетевых алгоритмов в задачах автоматического реферирования и суммаризации текстов при сохранении контекста, понимании иронии и адаптации к различным языкам и стилям.
+
+B (RAG):  Как повысить эффективность нейросетевых алгоритмов в задачах автоматического реферирования и суммаризации текстов при сохранении контекста, иронии и адаптации к разным языкам и стилям?
+
+A: clarity= , relevance= , completeness= 
+B: clarity= , relevance= , completeness= 
+Лучше: 
+
+────────────────────────────────────────
+Статья 73 [RU]
+Файл: ru_19_bazovaya-arhitektura-metody-i-algoritmy-sistemy-izvlecheniya.pdf
+
+Эталон: Сердюк Базовая архитектура, методы и алгоритмы системы извлечения темпоральной информации из текстов на естественном языке Аннотация. В данной статье представляется базовая архитектура системы извлече...
+
+A (Base): Как эффективно извлекать и упорядочивать временные элементы (события и темпоральные ссылки) из текстов естественного языка с использованием методов машинного обучения и лингвистических данных для последующего логического вывода новых фактов.
+
+B (RAG):  Нужно разработать методы и алгоритмы для эффективного извлечения темпоральной информации из текстов на естественном языке с использованием синтаксических зависимостей и семантических ролей.
+
+A: clarity= , relevance= , completeness= 
+B: clarity= , relevance= , completeness= 
+Лучше: 
+
+────────────────────────────────────────
+Статья 74 [RU]
+Файл: ru_16_kontsept-predobuchennyh-yazykovyh-modeley-v-kontekste-inzhen.pdf
+
+Эталон: Автор обосновывает актуальность вопроса о содержа нии в предобученных языковых моделях имплицитных, интернализированных знаний, извлеченных из текстовых корпусов, использовавшихся для предобучения ( p...
+
+A (Base): Актуальность содержания интернализированных знаний в предобученных языковых моделях и их использование для извлечения и формализации неструктурированных знаний.
+
+B (RAG):  Актуальна проблема содержания в предобученных языковых моделях имплицитных, интернализированных знаний, извлеченных из текстовых корпусов.
+
+A: clarity= , relevance= , completeness= 
+B: clarity= , relevance= , completeness= 
+Лучше: 
+
+────────────────────────────────────────
+Статья 75 [RU]
+Файл: ru_14_issledovanie-primenimosti-modeley-glubokogo-obucheniya-dlya-.pdf
+
+Эталон: Подвесовский ИССЛЕДОВАНИЕ ПРИМЕНИМОСТИ МОДЕЛЕЙ ГЛУБОКОГО ОБУЧЕНИЯ ДЛЯ ЗАДАЧИ АСПЕКТНОГО АНАЛИЗА ТОНАЛЬНОСТИ ТЕКСТОВЫХ СООБЩЕНИЙ Рассмотрена задача аспектного анализа тональности текстовых сообщений на...
+
+A (Base): Какие модели глубокого обучения наиболее эффективны для определения тональности текстовых сообщений в условиях неоднозначности естественного языка?
+
+B (RAG):  Какие модели глубокого обучения наиболее эффективны для решения задачи аспектного анализа тональности текстовых сообщений на естественном языке?
+
+A: clarity= , relevance= , completeness= 
+B: clarity= , relevance= , completeness= 
+Лучше: 
+
+────────────────────────────────────────
+Статья 76 [EN]
+Файл: 2603.27949v1.pdf
+
+Эталон: The experimental results demonstrate that EnsemJudge achieves state-of-the-art per- formance, showing strong generalization and robustness across various text types and attack settings. This work high...
+
+A (Base): How can we reliably detect LLM-generated Chinese text across diverse scenarios and out-of-domain inputs?
+
+B (RAG):  How can we reliably detect Chinese texts generated by Large Language Models (LLMs) in real-world scenarios that include out-of-domain inputs or adversarial samples?
+
+A: clarity= , relevance= , completeness= 
+B: clarity= , relevance= , completeness= 
+Лучше: 
+
+────────────────────────────────────────
+Статья 77 [EN]
+Файл: 2603.29336v1.pdf
+
+Эталон: In constructing this cor- pus, we developed a design policy based on key issues in defining the EL task, and clarified how to handle cases in which it is difficult to determine whether a mention shoul...
+
+A (Base): How can we develop effective language resources for Japanese entity linking given the limited existing resources and evaluate Japanese entity linking systems comprehensively?
+
+B (RAG):  How can we develop and evaluate Japanese entity linking systems with rich, annotated corpora that cover specific linguistic expressions referring to entities unique to Japan?
+
+A: clarity= , relevance= , completeness= 
+B: clarity= , relevance= , completeness= 
+Лучше: 
+
+────────────────────────────────────────
+Статья 78 [EN]
+Файл: 2603.29979v1.pdf
+
+Эталон: Structural Feature Engineering Objective Given contentcwith structural featuresSF(c), our optimization objective is to find the optimal structural configurationSF∗that maximizes citation probability a...
+
+A (Base): How do structural features of content, independent of semantic content, influence citation behavior by generative engines, and what optimization strategies can be developed to enhance citation performance?
+
+B (RAG):  How do structural features of content influence citation behavior in the era of AI-powered search engines, and what optimization strategies can be developed to enhance citation performance?
+
+A: clarity= , relevance= , completeness= 
+B: clarity= , relevance= , completeness= 
+Лучше: 
+
+────────────────────────────────────────
+Статья 79 [EN]
+Файл: 2604.02194v1.pdf
+
+Эталон: This effectively aligns the LLM s generative capabilities with our context-filtering objective. For this, we construct a dataset as follows: for a pair (qi,{di,j}k j=1)∈ D Q, we em- ploy an external L...
+
+A (Base): How can we enhance the robustness of Retrieval-Augmented Language Models against noisy or irrelevant retrieved contexts through neuron-level tuning, rather than just layer-level parameter updates?
+
+B (RAG):  How can we enhance the robustness of Large Language Models against irrelevant or noisy retrieved contexts without performing dense fine-tuning?
+
+A: clarity= , relevance= , completeness= 
+B: clarity= , relevance= , completeness= 
+Лучше: 
+
+────────────────────────────────────────
+Статья 80 [EN]
+Файл: 2603.28858v1.pdf
+
+Эталон: In this work, we proposeOPTIMER, which decouples ratio selection from training: we train one CPT model per dataset, extract each model s distribution vector, which represents the parameter shift induc...
+
+A (Base): How can we optimize data mixture ratios in continual pre-training without fixed, potentially suboptimal choices that waste computational resources?
+
+B (RAG):  How can we efficiently and effectively determine optimal data mixture ratios for continual pre-training without incurring significant computational costs?
+
+A: clarity= , relevance= , completeness= 
+B: clarity= , relevance= , completeness= 
+Лучше: 
+
+────────────────────────────────────────
+Статья 81 [EN]
+Файл: 2603.29520v1.pdf
+
+Эталон: , VPNs) has significantly challenged traditional traffic analysis techniques, making en- crypted traffic classification a critical yet challenging problem. Early studies mainly relied on port-based an...
+
+A (Base): How can we effectively classify encrypted traffic when traditional modeling approaches fail due to the occlusion of payload semantics by encryption?
+
+B (RAG):  How can we effectively classify encrypted traffic when standard modeling approaches are hindered by the occlusion of payload semantics and the entanglement of structured headers with stochastic encryption noise?
+
+A: clarity= , relevance= , completeness= 
+B: clarity= , relevance= , completeness= 
+Лучше: 
+
+────────────────────────────────────────
+Статья 82 [EN]
+Файл: 2603.29407v1.pdf
+
+Эталон: Finally, although details on TAU are scarce, its design similarly focuses on optimizing local feature extraction within a classical paradigm, leaving non-local correlation modeling an open challenge. ...
+
+A (Base): Accurately forecasting the complex, multiscale spatiotemporal dynamics of 3D cloud fields remains challenging due to nonlocal dependencies and cross-layer interactions.
+
+B (RAG):  How can we accurately preserve fine cloud structures in volumetric forecasting tasks using spatiotemporal models that address the limitations of locality-biased representations?
+
+A: clarity= , relevance= , completeness= 
+B: clarity= , relevance= , completeness= 
+Лучше: 
+
+────────────────────────────────────────
+Статья 83 [EN]
+Файл: 2603.29902v1.pdf
+
+Эталон: Annotators remove redundant or semantically mismatched calls, fix issues such as malformed syntax and inappropriate tool choices, and relocate misplaced tags to paragraph boundaries to avoid disruptin...
+
+A (Base): How can MLLMs autonomously determine when, where, and which tools to invoke to produce coherent interleaved responses that unify factuality with creativity for visual-critical queries?
+
+B (RAG):  How can Multimodal Large Language Models unify factuality with creativity in interleaved text-and-image generation to produce coherent and visually critical responses?
+
+A: clarity= , relevance= , completeness= 
+B: clarity= , relevance= , completeness= 
+Лучше: 
+
+────────────────────────────────────────
+Статья 84 [EN]
+Файл: 2603.28537v2.pdf
+
+Эталон: To train some of these methods, which require machine learning, or to compute parameters or select hyperparameters for those that do not, a large amount of domain-specific data is needed. In this work...
+
+A (Base): How can a small confidential dataset be effectively leveraged to generate large-scale, domain-specific training data for context-dependent rubric-based short answer grading while maintaining confidentiality and ensuring the generated data is sufficiently similar to the original?
+
+B (RAG):  How can automatic grading methods for student answers be developed when large amounts of domain-specific, high-quality training data are scarce or restricted?
+
+A: clarity= , relevance= , completeness= 
+B: clarity= , relevance= , completeness= 
+Лучше: 
+
+────────────────────────────────────────
+Статья 85 [EN]
+Файл: 2603.29518v1.pdf
+
+Эталон: , inform, request, confirm) via DAs and enumerate the semantic content with slot value pairs. In this work, our objective is to analyse whether providing a task demonstrator to the generator enhances ...
+
+A (Base): How do enriched meaning representations impact the quality of language generation in dialogue tasks across different domains and metrics?
+
+B (RAG):  How do enriched meaning representations impact the quality of natural language generation in dialogue tasks across different corpora and evaluation metrics?
+
+A: clarity= , relevance= , completeness= 
+B: clarity= , relevance= , completeness= 
+Лучше: 
+
+────────────────────────────────────────
+Статья 86 [EN]
+Файл: 2603.29765v1.pdf
+
+Эталон: Expertise finetuning can address this issue; however, it often leads to overspecialization, and developing a single multi-domain expert remains difficult due to diverging objectives. Furthermore, mult...
+
+A (Base): How can we construct a unified multi-domain expert model without retraining from scratch and avoid the issues of overspecialization, catastrophic forgetting, and destructive interference between experts trained on different domains?
+
+B (RAG):  How to construct a unified multi-domain model from existing dense experts without requiring further training and addressing issues like interference and catastrophic forgetting in multitask learning?
+
+A: clarity= , relevance= , completeness= 
+B: clarity= , relevance= , completeness= 
+Лучше: 
+
+────────────────────────────────────────
+Статья 87 [EN]
+Файл: 2603.29557v1.pdf
+
+Эталон: , 2025] aim to support the complete lifecy- cle of autonomous research, with the ul- timate goal of producing a full research paper, including code generation and ex- perimental execution....
+
+A (Base): How can we overcome the limitations of static retrieval in generating diverse and innovative scientific ideas, particularly by mitigating the information cocoons created by over-reliance on parametric knowledge?
+
+B (RAG):  How can LLMs generate novel and divergent ideas through dynamically coupled retrieval and generation processes to overcome homogeneous and insufficiently divergent ideas produced by static methods?
+
+A: clarity= , relevance= , completeness= 
+B: clarity= , relevance= , completeness= 
+Лучше: 
+
+────────────────────────────────────────
+Статья 88 [EN]
+Файл: 2603.29777v1.pdf
+
+Эталон: Agent Layer The long-term goal of the system is to achieve an agent-based architecture that controls the perception and reasoning components....
+
+A (Base): How can we develop a hybrid edge-based action detection system that effectively combines low-latency, privacy-aware skeleton-based motion analysis with real-time semantic understanding provided by vision-language models to enhance public safety in complex public environments?
+
+B (RAG):  How can automated video analysis systems be deployed in public spaces while addressing latency, privacy, and resource limitations?
+
+A: clarity= , relevance= , completeness= 
+B: clarity= , relevance= , completeness= 
+Лучше: 
+
+────────────────────────────────────────
+Статья 89 [EN]
+Файл: 2603.27844v1.pdf
+
+Эталон: , 2025]: 3 models, 23+ experiments, and 50 IMO-level problems on a single H100 80GB with a 5-hour limit....
+
+A (Base): How can inference-time optimizations effectively bridge the model capability gap in competitive mathematics problems when high-temperature sampling already decorrelates errors sufficiently?
+
+B (RAG):  How can we effectively decorrelate errors in majority voting among LLM attempts to improve the effective sample size without significantly reducing per-attempt accuracy?
+
+A: clarity= , relevance= , completeness= 
+B: clarity= , relevance= , completeness= 
+Лучше: 
+
+────────────────────────────────────────
+Статья 90 [EN]
+Файл: 2603.29570v1.pdf
+
+Эталон: We formulate this as a conditional image generation problem, wherein the objective is to learn a function: :( , ) Here, ∼N( 0, )denotes a Gaussian noise vector capturing sto- chastic variation, ∈Y is ...
+
+A (Base): How can digital technologies accurately generate key postures of Bharatanatyam adavus to preserve and disseminate this traditional dance form while maintaining its anatomical and stylistic integrity?
+
+B (RAG):  How can we accurately generate key postures of Bharatanatyam to preserve its anatomical and stylistic integrity for global documentation and transmission?
+
+A: clarity= , relevance= , completeness= 
+B: clarity= , relevance= , completeness= 
+Лучше: 
+

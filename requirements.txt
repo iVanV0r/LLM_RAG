@@ -1,0 +1,12 @@
+pandas~=3.0.2
+numpy~=2.4.4
+python-dotenv~=1.2.2
+bert-score~=0.3.13
+scipy~=1.17.1
+faiss-cpu~=1.14.2
+tqdm~=4.67.3
+pdfplumber~=0.11.9
+PyPDF2~=3.0.1
+matplotlib~=3.10.9
+seaborn~=0.13.2
+ollama~=0.6.2

@@ -1,0 +1,35 @@
+{
+  "best_model": "gemma-3-12b-it-iq2xs:latest",
+  "results": {
+    "gemma-3-12b-it-iq2xs:latest": {
+      "base_mean": 0.8098055978616079,
+      "rag_mean": 0.8124614179134368,
+      "improvement": 0.002655820051828961,
+      "improvement_pct": 0.327957729465193,
+      "p_value": 0.5428214271924842,
+      "significant": false,
+      "rag_win_rate": 0.5,
+      "time_min": 0.2
+    },
+    "mistral:7b": {
+      "base_mean": 0.8152130365371704,
+      "rag_mean": 0.8175619939963022,
+      "improvement": 0.002348957459131884,
+      "improvement_pct": 0.28814032085523217,
+      "p_value": 0.6229080242876169,
+      "significant": false,
+      "rag_win_rate": 0.5,
+      "time_min": 0.1
+    },
+    "qwen2.5:7b": {
+      "base_mean": 0.8128720283508301,
+      "rag_mean": 0.8139906962712605,
+      "improvement": 0.0011186679204304717,
+      "improvement_pct": 0.13761919237152814,
+      "p_value": 0.7367833118559252,
+      "significant": false,
+      "rag_win_rate": 0.4666666666666667,
+      "time_min": 1.1
+    }
+  }
+}
